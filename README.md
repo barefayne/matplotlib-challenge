@@ -45,6 +45,7 @@ It’s hard to conclude that the regimen was effective as the tumor kept on grow
 # Bar Charts and Pie Charts
 ![Alternate image text](./Images/bar1_NumberofMiceperTreatment.png)
 ![Alternate image text](./Images/bar2_NumberofMiceperTreatment.png)
+
 ![Alternate image text](./Images/pie1_MicebySex.png)
 ![Alternate image text](./Images/pie2_MicebySex.png)
 
