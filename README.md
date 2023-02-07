@@ -43,19 +43,18 @@ It’s hard to conclude that the regimen was effective as the tumor kept on grow
 # Charts
 
 # Bar Charts and Pie Charts
-![Alternate image text](./Images/bar1_NumberofMiceperTreatment.png)
-![Alternate image text](./Images/bar2_NumberofMiceperTreatment.png)
+![Alternate image text](/Images/bar1_NumberofMiceperTreatment.png)
+![Alternate image text](/Images/bar2_NumberofMiceperTreatment.png)
 
-![Alternate image text](./Images/pie1_MicebySex.png)
-![Alternate image text](./Images/pie2_MicebySex.png)
+![Alternate image text](/Images/pie1_MicebySex.png) ![Alternate image text](/Images/pie2_MicebySex.png)
 
 # Boxplots
-![Alternate image text](./Images/Boxplots1_TumorVolumebyRegimen.png)
-![Alternate image text](./Images/Boxplots2_TumorVolumebyRegimen.png)
+![Alternate image text](/Images/Boxplots1_TumorVolumebyRegimen.png)
+![Alternate image text](/Images/Boxplots2_TumorVolumebyRegimen.png)
 
 # Line Plot and Scatter Plot
-![Alternate image text](./Images/line_CapomulinTreatmeantofMousel509.png)
-![Alternate image text](./Images/scatter1_AverageTumorvolvsWeight.png)
+![Alternate image text](/Images/line_CapomulinTreatmeantofMousel509.png)
+![Alternate image text](/Images/scatter1_AverageTumorvolvsWeight.png)
 
 # Correlation and Regression
-![Alternate image text](./Images/scatter2_TumorvolvsWeight.png)
+![Alternate image text](/Images/scatter2_TumorvolvsWeight.png)
