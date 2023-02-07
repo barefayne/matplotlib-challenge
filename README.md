@@ -42,14 +42,17 @@ It’s hard to conclude that the regimen was effective as the tumor kept on grow
 
 # Charts
 
-# Bar Charts and Pie Charts
+# Bar Charts (using Pandas and Pyplots)
 ![Alternate image text](/Images/bar1_NumberofMiceperTreatment.png)
 ![Alternate image text](/Images/bar2_NumberofMiceperTreatment.png)
 
-![Alternate image text](/Images/pie1_MicebySex.png) ![Alternate image text](/Images/pie2_MicebySex.png)
+# Pie Charts (using Pandas and Pyplots)
+![Alternate image text](/Images/pie1_MicebySex.png) 
+![Alternate image text](/Images/pie2_MicebySex.png)
 
-# Boxplots
+# Boxplots 
 ![Alternate image text](/Images/Boxplots1_TumorVolumebyRegimen.png)
+## Used for loop
 ![Alternate image text](/Images/Boxplots2_TumorVolumebyRegimen.png)
 
 # Line Plot and Scatter Plot
