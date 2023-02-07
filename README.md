@@ -53,7 +53,7 @@ It’s hard to conclude that the regimen was effective as the tumor kept on grow
 ![Alternate image text](./Images/Boxplots2_TumorVolumebyRegimen.png)
 
 # Line Plot and Scatter Plot
-![Alternate image text](./Images/line_CapomulinTreatmeantofMousel509)
+![Alternate image text](./Images/line_CapomulinTreatmeantofMousel509.png)
 ![Alternate image text](./Images/scatter1_AverageTumorvolvsWeight.png)
 
 # Correlation and Regression
