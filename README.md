@@ -43,8 +43,8 @@ It’s hard to conclude that the regimen was effective as the tumor kept on grow
 # Charts
 
 # Bar Charts and Pie Charts
-![Alternate image text](./matplotlib-challenge/Images/bar1_NumberofMiceperTreatment.png)
-![Alternate image text](./matplotlib-challenge/Images/bar2_NumberofMiceperTreatment.png)
+![Alternate image text](./Images/bar1_NumberofMiceperTreatment.png)
+![Alternate image text](/Images/bar2_NumberofMiceperTreatment.png)
 ![Alternate image text](./matplotlib-challenge/Images/pie1_MicebySex.png)
 ![Alternate image text](./matplotlib-challenge/Images/pie2_MicebySex.png)
 
